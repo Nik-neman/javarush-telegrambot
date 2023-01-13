@@ -1,3 +1,7 @@
+## 0.4.0-SNAPSHOT
+
+*   JRTB-1: added repository layer.
+
 # Release Notes
 
 ## 0.3.0-SNAPSHOT

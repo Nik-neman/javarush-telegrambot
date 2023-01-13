@@ -7,9 +7,9 @@ public enum CommandName {
 
     HELP("/help"),
 
-    NO("nocommand");
+    NO("nocommand"),
 
-
+    STAT("/stat");
 
     private final String commandName;
 

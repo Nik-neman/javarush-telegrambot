@@ -1,7 +1,3 @@
-clearDbs.sql:
-DELETE FROM tg_user;
-
-telegram_users.sql:
 INSERT INTO tg_user VALUES ("123456789", 1);
 INSERT INTO tg_user VALUES ("123456788", 1);
 INSERT INTO tg_user VALUES ("123456787", 1);
